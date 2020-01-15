@@ -1,0 +1,20 @@
+# data2.txt
+# Biochem 6765 - Foster
+# Titration data for 1:1 complex between M and L
+# [Mt] = 1e-6 M: concentration of macromolecule M
+# Lt: total molar concentration of ligand L
+# Y: fractional saturation of binding sites in M
+Lt_(M),Y
+1.60E-09,0.001
+3.20E-09,0.003
+6.40E-09,0.006
+1.28E-08,0.012
+2.56E-08,0.023
+5.12E-08,0.046
+1.02E-07,0.092
+2.05E-07,0.182
+4.10E-07,0.355
+8.19E-07,0.641
+1.64E-06,0.883
+3.28E-06,0.959
+6.55E-06,0.982

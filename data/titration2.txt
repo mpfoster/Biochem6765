@@ -1,0 +1,15 @@
+# Simulated binding data for titration of a macromolecule at a concentration Mt with a ligand
+#	Mt = 10e-6
+# Syntax for fitting in Gnuplot:
+# Hyperbolic:	x/(x+kd)
+# Hill:	x**n/(x**n+kd**n)
+# quadratic:	((kd+x+10e-6)-((kd+x+10e-6)**2-4*x*10e-6)**0.5)/(2*10e-6)
+# Lt (M)	Fraction Bound
+0.0000001	0.01
+0.0000005	0.049
+0.000001	0.099
+0.000002	0.198
+0.000005	0.49
+0.000010	0.905
+0.000020	0.99
+0.000030	0.995
