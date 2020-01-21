@@ -4,7 +4,7 @@
 # [Mt] = 1e-9 M: concentration of macromolecule M
 # Lt: total molar concentration of ligand L
 # Y: fractional saturation of binding sites in M
-Lt_M,Y
+Lt,Y
 1.00E-10,0.001
 2.00E-10,0.002
 4.00E-10,0.004
